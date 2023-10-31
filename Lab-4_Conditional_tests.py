@@ -10,10 +10,7 @@ print(573753>6236836383)
 print(2323>3232)
 print(323>=323)
 print("test"=="test")
-print(218946>83628736)
-print(573753>6236836383)
-print(2323>3232)
-print(323>=323)
+
 #2
 # a. Test using a lower() function.
 a= "Correcr"
